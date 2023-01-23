@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# This is my Code Lab 1 HOMEWORK!
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Not sure what to put here but Matt said do not leave it unchanged.
